@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
+      <change afterPath="$PROJECT_DIR$/Labo3/Contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/Homepage/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/Homepage/images/redhot.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/Homepage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/opdrachten_1_2_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +44,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo3/Homepage/images",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo3\Homepage\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664954073078</updated>
-      <workItem from="1664954074367" duration="682000" />
+      <workItem from="1664954074367" duration="11673000" />
     </task>
+    <task id="LOCAL-00001" summary="Testpagina">
+      <created>1664954916478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664954916478</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testpagina" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testpagina" />
   </component>
 </project>
