@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Labo4/Opdracht 5/Hobby.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/Opdracht 5/Like.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/Opdracht 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/images/boom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/images/q40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/images/q70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/images/q90.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo4/opdracht_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/Contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/Contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/opleidingsaanbod/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +43,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo3/Homepage/images",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo3/Homepage/images&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo3\Homepage\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4\images" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -54,6 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664954073078</updated>
       <workItem from="1664954074367" duration="12727000" />
+      <workItem from="1665133532265" duration="1003000" />
+      <workItem from="1665559079554" duration="3581000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>
