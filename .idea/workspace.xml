@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/Hobby.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/Like.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/Vrienden.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/images/redhot.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Kalender/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Kalender/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/image/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/image/nature blog example.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Opdracht Nature Blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,10 +49,11 @@
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo3\Homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht 2\Style" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht Nature Blog\image" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht Nature Blog" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo6\Opdracht_3" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4\images" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -88,7 +72,7 @@
       <workItem from="1667942474398" duration="715000" />
       <workItem from="1667981330799" duration="4034000" />
       <workItem from="1667986279588" duration="775000" />
-      <workItem from="1668429403356" duration="305000" />
+      <workItem from="1668429403356" duration="461000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>
