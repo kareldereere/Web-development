@@ -2,15 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/Labo8/fonts/kumbh.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/images/bg-pattern-bottom.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/images/bg-pattern-card.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/images/bg-pattern-top.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/images/image-victor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Cocktailbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Lorem Ipsum extra space/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Lorem Ipsum extra space/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Lorem Ipsum/Css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo8/Opdracht Lorem Ipsum/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboFlexbox/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/fonts/kumbh.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/fonts/kumbh.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/bg-pattern-bottom.svg" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/images/bg-pattern-bottom.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/bg-pattern-card.svg" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/images/bg-pattern-card.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/bg-pattern-top.svg" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/images/bg-pattern-top.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/images/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/images/image-victor.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/images/image-victor.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo8/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/LaboFlexbox/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,31 +52,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo8",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo8&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht 2" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo6\Opdracht_6" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo6\Opdracht_5" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4\Opdracht 5" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo3\Homepage\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8\Opdracht Cocktailbar" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\LaboFlexbox" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht 2\Style" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht Nature Blog\image" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo7\Opdracht Nature Blog" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo6\Opdracht_3" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo4\images" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +97,11 @@
       <workItem from="1667986279588" duration="775000" />
       <workItem from="1668429403356" duration="461000" />
       <workItem from="1668433955544" duration="88000" />
-      <workItem from="1669150269358" duration="433000" />
+      <workItem from="1669150269358" duration="456000" />
+      <workItem from="1669190477034" duration="100000" />
+      <workItem from="1669191016310" duration="2481000" />
+      <workItem from="1669242729364" duration="4000" />
+      <workItem from="1669284769681" duration="414000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>

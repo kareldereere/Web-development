@@ -50,7 +50,6 @@ body {
   display: inline-block;
 }
 
-/* foto krijgt een cirkelvorm */
 .card img {
   border-radius: 100%;
   border: .25em solid white;
@@ -64,7 +63,6 @@ body {
   font-size: .75rem;
   inline-size: 100%;
   padding: 2em;
-  /* zorg dat de statistische gegevens horizontaal komen */
   display: flex;
   justify-content: space-around;
 }
