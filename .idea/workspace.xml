@@ -2,25 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Image/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Image/cat1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Image/cat2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Image/cat3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Image/cat4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht2/Style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht2/Style/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht2/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht3/Style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht3/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht4/Style/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht4/Style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Opdracht4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 1/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 2/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 3/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 4/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 5/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 6/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening extra/Style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/Oefening extra/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheatsheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht 2/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/Style/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,24 +49,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo10/Opdracht4",
-    "list.type.of.created.stylesheet": "CSS",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo11&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo11" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht4" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht3\Style" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht InlineBl" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht Airbus" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht4\Style" />
@@ -104,7 +103,10 @@
       <workItem from="1669795130277" duration="2364000" />
       <workItem from="1669993039075" duration="8000" />
       <workItem from="1669995084394" duration="353000" />
-      <workItem from="1670746748412" duration="1400000" />
+      <workItem from="1670746748412" duration="1637000" />
+      <workItem from="1670837378806" duration="2000" />
+      <workItem from="1671004377234" duration="4560000" />
+      <workItem from="1671351029499" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>
