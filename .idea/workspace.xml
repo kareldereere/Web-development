@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/Airbus/airbus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Airbus/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/style/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalender/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kalender/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natureblog/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natureblog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natureblog/nature blog example.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Natureblog/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resume/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resume/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo3/Contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/Contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cheatsheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/cheatsheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LaboJS1/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/1ste jaar - TI sem 1/Webdevelopement/Web-developement&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/karel/OneDrive - Hogeschool VIVES/1ste jaar - TI sem 1/Webdevelopement/Web-developement/LaboJS1",
+    "list.type.of.created.stylesheet": "CSS",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\LaboJS1" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo11" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht4" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht3\Style" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht InlineBl" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht Airbus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Inhoud-versie2\style" />
@@ -112,6 +98,7 @@
       <workItem from="1673949703247" duration="8049000" />
       <workItem from="1673972255995" duration="756000" />
       <workItem from="1674027677943" duration="8562000" />
+      <workItem from="1675852509377" duration="693000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>
