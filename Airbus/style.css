@@ -1,0 +1,75 @@
+body{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("fotos/pagebackground.png");
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.top{
+    height: 200px;
+    background-image: url("fotos/bgsky3.jpg");
+    text-align: center;
+    color: darkblue;
+
+
+}
+.top img{
+    margin-bottom: 60px;
+    z-index: 5;
+    position: absolute;
+    top: 107px;
+    animation-name: fly;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+.bovenste-titel{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
+.onderste-titel{
+    font-size: 2em;
+    font-weight: bold;
+}
+.news{
+    width: 250px;
+    background-color: #dddddd;
+    border: 1px solid #999999;
+    float: right;
+}
+.news p{
+    color: #666666;
+    width: 90%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.news h3{
+    color: white;
+    background-color: blue;
+    font-size: 1.2em;
+}
+
+.main{
+    width: 700px;
+    margin-right: 10px;
+
+}
+.intro {
+    background-color: white;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.intro img{chelsea)
+    is leuk
+    hihi
+
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}

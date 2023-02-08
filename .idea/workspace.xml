@@ -2,25 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 1/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 2/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 3/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 4/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 5/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 6/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening 6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening extra/Style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/Oefening extra/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo11/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheatsheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Airbus/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Airbus/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/style/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Inhoud-versie2/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalender/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kalender/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natureblog/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natureblog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natureblog/nature blog example.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Natureblog/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resume/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resume/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo7/Opdracht 2/Style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo7/Opdracht 2/Style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/Contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/Contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheatsheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/cheatsheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,7 +52,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/Webdevelopement/Web-developement/Labo11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/1ste jaar - TI sem 1/Webdevelopement/Web-developement&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -69,11 +66,11 @@
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht Airbus" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht4\Style" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht2\Style" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht1\Image" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8\Opdracht Cocktailbar" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo8" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Inhoud-versie2\style" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Inhoud-versie2" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Inhoud-versie2\images" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement" />
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Airbus" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,7 +103,15 @@
       <workItem from="1670746748412" duration="1637000" />
       <workItem from="1670837378806" duration="2000" />
       <workItem from="1671004377234" duration="4560000" />
-      <workItem from="1671351029499" duration="329000" />
+      <workItem from="1671351029499" duration="618000" />
+      <workItem from="1671868372388" duration="2175000" />
+      <workItem from="1671871341017" duration="2799000" />
+      <workItem from="1671875656900" duration="1397000" />
+      <workItem from="1671878274845" duration="3507000" />
+      <workItem from="1672904339604" duration="9320000" />
+      <workItem from="1673949703247" duration="8049000" />
+      <workItem from="1673972255995" duration="756000" />
+      <workItem from="1674027677943" duration="8562000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>

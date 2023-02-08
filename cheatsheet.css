@@ -88,7 +88,83 @@ body{
     overflow: scroll; /*scrol naar de tekst die niet in het element past*/
     overflow: auto; /*bepaald zelf wat te doen met de overige informatie*/
 
-    /**/
+    /*box-sizing  https://www.geeksforgeeks.org/css-box-sizing-property/*/
 
+    box-sizing: content-box;
+    box-sizing: border-box;
+
+    /*FLEXBOX*/
+
+    /*Uitlijning van objecten met FLEXBOX*/
+
+    display: flex; /*FLEXBOX ACTIVEREN*/
+
+    /*HORIZONTAAL https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content*/
+    justify-content: flex-start;/*links*/
+    justify-content: center;/*midden*/
+    justify-content: flex-end;/*rechts*/
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+
+    /*VERTICAAL https://developer.mozilla.org/en-US/docs/Web/CSS/align-items*/
+    /*objecten*/
+    align-items: stretch; /*maak passend*/
+    align-items: center; /*midden*/
+    align-items: start; /*boven*/
+    align-items: end; /*onder*/
+    align-items: flex-start; /*boven in flexbox*/
+    align-items: flex-end; /*onder in flexbox*/
+    /*inhoud*/
+    align-content: flex-start;
+    align-content: flex-end;
+    align-content: center;
+    align-content: stretch;
+    align-content: space-around;
+    align-content: space-between;
+
+    /*WRAP in flexbox https://developer.mozilla.org/en-US/docs/Web/CSS/flex-wrap*/
+    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
+
+
+    /*GRID https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout*/
+
+    display: grid; /*grid activeren*/
+
+    /*Vaste waarden voor kolommen*/
+    grid-template-columns: 1em 1em 2em;  /*3 kolommen met een bepaalde breedte*/
+
+    /*Vaste waarden voor rijen*/
+    grid-auto-rows: 200px; /*alle rijen hebben een dikte van 200px*/
+
+    /*box die meerdere kolomen en/of rijen gebruikt*/
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
 
 }
+    /*Voorbeeld GRID*/
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 100px;
+}
+
+.box1 {
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.box2 {
+    grid-column-start: 1;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+/*Bootstrap GRID : https://getbootstrap.com/docs/4.0/layout/grid/*/
+
