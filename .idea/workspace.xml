@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c78780-c2bc-4e0e-b20f-3335d9a79dcb" name="Changes" comment="Testpagina">
-      <change afterPath="$PROJECT_DIR$/LaboJS2/arr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/arr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/opdracht1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/opdracht3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/opdracht5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/opdrachtKopieer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/js/opdrachtSubstring.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/opdr1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/opdr3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/opdr5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/opdrKopie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS2/opdrsubstr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/css/opdracht_colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/css/opdracht_paragrafen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/js/opdracht_colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/js/opdracht_paragrafen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/js/opdracht_producten.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/opdrcolorpick.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/opdrparagraaf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LaboJS3/opdrproduct.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/formulierElementen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/js/formulierElementen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/js/manVanAn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/js/opdracht_spaties.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/opdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/opdrachtManVanAn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LaboJS4/opdracht_spaties.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaboJS1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LaboJS1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -60,18 +47,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/1ste jaar - TI sem 1/Webdevelopement/Web-developement/LaboJS1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karel/OneDrive - Hogeschool VIVES/1ste jaar - TI sem 1/Webdevelopement/Web-developement/LaboJS3&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\LaboJS3" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\LaboJS1" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo11" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht4" />
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo10\Opdracht3\Style" />
-      <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\Webdevelopement\Web-developement\Labo9\Opdracht InlineBl" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\karel\OneDrive - Hogeschool VIVES\1ste jaar - TI sem 1\Webdevelopement\Web-developement\Inhoud-versie2\style" />
@@ -121,7 +108,9 @@
       <workItem from="1673972255995" duration="756000" />
       <workItem from="1674027677943" duration="8562000" />
       <workItem from="1675852509377" duration="693000" />
-      <workItem from="1678004625810" duration="919000" />
+      <workItem from="1678004625810" duration="1699000" />
+      <workItem from="1678091724699" duration="4000" />
+      <workItem from="1678611705855" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Testpagina">
       <created>1664954916478</created>
